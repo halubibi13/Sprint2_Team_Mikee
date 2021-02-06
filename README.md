@@ -1,7 +1,7 @@
 # Sprint2_Team_Mikee
 Recommendation Engine for ITZY
 
-Mentor: Mikee
+Mentor: Mikee Jazmines
 
 Members of the group:
 1. Andrei Labayan
