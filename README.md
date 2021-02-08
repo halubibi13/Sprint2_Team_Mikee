@@ -1,6 +1,8 @@
 # Sprint2_Team_Mikee
 Recommendation Engine for ITZY
 
+Link to our Heroku app: https://sprint2project.herokuapp.com/
+
 Mentor: Mikee Jazmines
 
 Members of the group:
